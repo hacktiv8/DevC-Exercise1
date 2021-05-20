@@ -1,0 +1,13 @@
+body {
+    position: relative;
+    background-color: #fff;
+    width: 750px;
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.img {
+    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid #A9A9A9;
+}
